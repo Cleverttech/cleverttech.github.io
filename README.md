@@ -1,4 +1,4 @@
-# clevettech.github.io
+# cleverttech.github.io
 Personal github projects & more
 123
 test again
